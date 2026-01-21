@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Was ist das größte Land der Welt?",
+    "options": ["USA", "Russland", "China"],
+    "answer": "Russland",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Russia_location_map.svg/200px-Russia_location_map.svg.png"
+  },
+  {
+    "question": "Welches Tier ist das größte der Erde?",
+    "options": ["Elefant", "Blauwal", "Giraffe"],
+    "answer": "Blauwal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Blue_Whale.jpg/220px-Blue_Whale.jpg"
+  }
+]
